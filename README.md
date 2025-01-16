@@ -1,4 +1,4 @@
-# Projeto: Configuração de Ambiente com Vagrant
+# Configuração de Ambiente com Vagrant
 
 ## Descrição do Projeto
 

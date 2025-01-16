@@ -6,8 +6,8 @@ Este projeto utiliza o Vagrant para criar e configurar uma máquina virtual base
 
 ## Requisitos do Sistema
 
-- Vagrant instalado ([Instale através do link ->](https://developer.hashicorp.com/vagrant/downloads))
-- VirtualBox instalado ([Instale através do link ->](https://www.virtualbox.org/))
+- Vagrant instalado ([Clique aqui para instalar](https://developer.hashicorp.com/vagrant/downloads))
+- VirtualBox instalado ([Clique aqui para instalar](https://www.virtualbox.org/))
 
 ## Configurações
 

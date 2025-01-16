@@ -57,8 +57,8 @@ Após iniciar a máquina virtual:
    ls
    ```
 3. Para validar o conteúdo do arquivo, afim de conferir se foi devidamente sincronizado, rode o comando:
-```bash
-cat /vagrant_data/hello.php
-```
+    ```bash
+    cat /vagrant_data/hello.php
+    ```
 4. Qualquer alteração realizada nos arquivos da pasta sincronizada será refletida em ambos os lados (host e VM).
-
+---
